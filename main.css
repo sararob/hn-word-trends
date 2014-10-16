@@ -1,0 +1,9 @@
+#words {
+  margin: 75px;
+  text-align: justify;
+}
+
+.word {
+  display: inline-block;
+  margin: 10px;
+}
